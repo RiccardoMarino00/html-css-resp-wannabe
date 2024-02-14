@@ -136,7 +136,7 @@ img {
       }
  }
 
- 
+
 
  @media (max-width: 768px ) {
     .container{
@@ -145,13 +145,17 @@ img {
  }
 
 
-
  @media (max-width: 480px) {
+
     .container{
         width: 480px;
     }
 
     .col{
         width: 100%;
+    }
+
+    .row{
+        flex-wrap: wrap;
     }
  }
