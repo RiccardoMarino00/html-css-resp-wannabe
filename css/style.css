@@ -140,7 +140,7 @@ img {
 
  @media (max-width: 768px ) {
     .container{
-        max-width: 768px;
+        max-width: 760px;
         width: 100%;
     }
  }
@@ -149,7 +149,7 @@ img {
  @media (max-width: 480px) {
 
     .container{
-        max-width: 480px;
+        max-width: 470px;
         width: 100%;
     }
 
